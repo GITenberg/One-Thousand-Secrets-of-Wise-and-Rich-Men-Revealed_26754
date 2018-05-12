@@ -1,0 +1,29 @@
+_repo: One-Thousand-Secrets-of-Wise-and-Rich-Men-Revealed_26754
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bogardus, C. A.
+    gutenberg_agent_id: '32225'
+    url: http://www.gutenberg.org/2009/agents/32225
+description: ''
+gutenberg_issued: '2008-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shooting'
+- !lcc 'TX'
+- !lcsh 'Mnemonics'
+- !lcsh 'Numismatics'
+- !lcsh 'Handbooks, vade-mecums, etc.'
+- !lcsh 'Proverbs'
+- !lcsh 'Formulas, recipes, etc.'
+title: One Thousand Secrets of Wise and Rich Men Revealed
+url: http://www.gutenberg.org/ebooks/26754
